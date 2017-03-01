@@ -20,19 +20,20 @@ The NFL Scouting Combine is a vital event in the path to the draft. More than 30
 ### Combine Landing Page
 - Desktop: /content/public/static/html/combine/combine-desktop.html
 - Mobile: /content/public/static/html/combine/combine-mobile.html
-- [Ranking Tool] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp)
--- [2 Col Centerpiece]( http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_2col_cp_combine)
--- [Centerpiece] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_cp_combine)
--- [Conteent Stream] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_content_stream_combine)
--- [Headlines] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_headlines_combine)
--- [Headlines Top Piece] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_headlines_toppiece_combine)
--- [Hot Topic] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_hot_topic_combine)
--- [NFL Now] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_nfl_network_combine)
--- [Photo Gallery] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_combine_photo_galleries)
--- [Spotlight] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_spotlight_combine)
--- [Video Row] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_videorow_1_combine)
--- [Voices] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_voices_combine)
 - Combine Live Traffice Driver: widget/home-2011/views/live-traffic-driver
+
+- [Ranking Tool] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp)
+* [2 Col Centerpiece]( http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_2col_cp_combine)
+* [Centerpiece] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_cp_combine)
+* [Conteent Stream] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_content_stream_combine)
+* [Headlines] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_headlines_combine)
+* [Headlines Top Piece] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_headlines_toppiece_combine)
+* [Hot Topic] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_hot_topic_combine)
+* [NFL Now] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_nfl_network_combine)
+* [Photo Gallery] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_combine_photo_galleries)
+* [Spotlight] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_spotlight_combine)
+* [Video Row] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_videorow_1_combine)
+* [Voices] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_voices_combine)
 
 ### Combine Live
 
