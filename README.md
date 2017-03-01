@@ -22,7 +22,7 @@ The NFL Scouting Combine is a vital event in the path to the draft. More than 30
 - Mobile: /content/public/static/html/combine/combine-mobile.html
 - Combine Live Traffice Driver: widget/home-2011/views/live-traffic-driver
 
-- [Ranking Tool] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp)
+### [Ranking Tool] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp)
 * [2 Col Centerpiece]( http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_2col_cp_combine)
 * [Centerpiece] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_cp_combine)
 * [Conteent Stream] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_content_stream_combine)
