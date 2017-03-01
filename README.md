@@ -17,7 +17,7 @@ The NFL Scouting Combine is a vital event in the path to the draft. More than 30
 - Documentation for [Combine Console](http://confluence.la3.nfl.com/confluence/display/COMSOFTDEV/Combine+and+Draft+Console+Tech+Guide) 
 - Documentation for [Combine Live](https://confluence.dm.nfl.com/pages/viewpage.action?pageId=25658886)
 
-### Combine Landing Page
+# Combine Landing Page
 - Desktop: /content/public/static/html/combine/combine-desktop.html
 - Mobile: /content/public/static/html/combine/combine-mobile.html
 - Combine Live Traffice Driver: widget/home-2011/views/live-traffic-driver
@@ -35,9 +35,9 @@ The NFL Scouting Combine is a vital event in the path to the draft. More than 30
 * [Video Row] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_videorow_1_combine)
 * [Voices] (http://prodpolls-vip.la3.nfl.com/cmsconsole/ranktool/load.do/Events/combine_lp/widget_voices_combine)
 
-### Combine Live
+# Combine Live
 
-#Code - All in Alfresco
+###Code - All in Alfresco
 Live landing page: 
 	- /content/public/static/html/combine/live.html
 
@@ -50,7 +50,7 @@ Widgets:
 	- Active State: /content/public/static/html/widgets/combine/live/static-triple-wide
 	- Active State Spotlight: /content/public/static/html/widgets/widgets/combine/live/player-spotlight
 	
-#Data:
+###Data:
 live player schedule	
 	- /content/public/static/config/combine/2016/live/combine_schedule.xml
 participants data	
@@ -69,7 +69,7 @@ player spotlight
 	- /content/public/static/config/combine/2017/live/spotlight/player-spotlight_d3.json
 	- /content/public/static/config/combine/2017/live/spotlight/player-spotlight_d4.json
 
-#Console Info
+###Console Info
 Fantasy Live Console: 
 	- http://prodpolls-vip.la3.nfl.com/fantasy-live/login
 
@@ -94,7 +94,7 @@ Base URL for video playback:
 Current week 	
 	- http://vmstagepolls01.la3.nfl.com:8080/console-api/fantasy/currentWeek									
 							
-#Segment JSON						
+###Segment JSON						
 live:	
 	- http://www.nfl.com/liveupdate/fantasy/live/episode.json						
 archive:
@@ -103,35 +103,35 @@ archive:
 	- http://www.nfl.com/fantasyfootball/live/episode?season=2016&seasonType=POST&week=26&day=SUN						
 	- http://www.nfl.com/fantasyfootball/live/episode?season=2016&seasonType=POST&week=26&day=MON	
 
-### Participants
+# Participants
 
-#Code
+###Code
 	- Desktop: https://github.dm.nfl.com/NFL/site/blob/master/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/participants-desktop.jsp
 	- Mobile: https://github.dm.nfl.com/NFL/site/blob/master/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/participants-mobile.jsp
 	- Documentation: https://confluence.dm.nfl.com/display/PROJECTS/Upload+Player+Profiles
 
-#Data 
+###Data 
 	JSON: http://www.nfl.com/widget/combine/person/json?id={playerId} 
 		Ex: http://www.nfl.com/widget/combine/person/json?id=2557979
 	Controller: com.nfl.site.web.controller.prospect.CombinePlayersController
 
-### Top Performers
+# Top Performers
 
-#Code
+###Code
 	- Desktop: https://github.dm.nfl.com/NFL/site/blob/master/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/top-performers-desktop.jsp
 	- Mobile: https://github.dm.nfl.com/NFL/site/blob/master/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/top-performers-mobile.jsp
 
-#Data 
+###Data 
 	- JSON: /ajax/combine/top-performers-json?years={years}&positionGroups={position}&workout={workout}	
 		Ex: http://www.nfl.com/ajax/combine/top-performers-json?years=2017&positionGroups=QB,RB,WR,TE,S,DL,LB,CB,OL,SPECIALISTS&workout=FORTY_YARD_DASH
 
-### Tracker
+# Tracker
 
-#Code
+###Code
 	- Desktop: https://github.dm.nfl.com/NFL/site/blob/master/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/tracker-desktop.jsp
 	- Mobile: https://github.dm.nfl.com/NFL/site/blob/master/NFL-site-web/src/main/webapp/WEB-INF/pages/combine/tracker-mobile.jsp
 
-#Data 
+###Data 
 	- JSON: /liveupdate/combine/{year}/{event}/ALL.json
 		Ex: http://www.nfl.com/liveupdate/combine/2017/FORTY_YARD_DASH/ALL.json?957
 	- Controller: com.nfl.site.web.controller.combine.CombineTrackerController 
